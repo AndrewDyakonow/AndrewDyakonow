@@ -8,6 +8,7 @@ ___
 
 # 💻 My Stack:
 
+<div align="center">
 
 | <h2>Programming Languages:</h2> | <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>                                                                                                                                                                                                                                                                                                                                                                    |
 |---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -19,3 +20,4 @@ ___
 | <h2>Other:</h2>                 | <div><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="48" height="48" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="bootstrap"/><img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"/></div>                                                                                                                                                                                      |
 | <h2>Contacts:</h2>              | <div><img width="48" height="48" src="https://img.icons8.com/material-outlined/48/github.png" alt="github"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/><img width="48" height="48" src="https://img.icons8.com/color/48/yahoo-mail-app.png" alt="yahoo-mail-app"/></div>                                                                                                                                                                         |
 
+</div>
