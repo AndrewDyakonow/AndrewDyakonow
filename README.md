@@ -21,3 +21,14 @@ ___
 | <h2>Contacts:</h2>              | <div><a href="https://github.com/AndrewDyakonow" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/material-outlined/48/github.png" alt="github"/><a href="https://t.me/Blendis" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/><a href="mailto:dronramone@yahoo.com" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/yahoo-mail-app.png" alt="yahoo-mail-app"/></div>                                                                                                                                                                         |
 
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AndrewDyakonow&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AndrewDyakonow&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewDyakonow&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AndrewDyakonow&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
