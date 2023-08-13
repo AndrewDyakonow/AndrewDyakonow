@@ -22,8 +22,6 @@
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo"/>
 <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"/>
 <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"/>
-<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"/>
-
 </div>
 
 
