@@ -25,6 +25,7 @@
 <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"/>
 <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"/>
 <img width="48" height="48" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="bootstrap"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
 </div>
 
 
