@@ -6,7 +6,7 @@
 
 ___
 
-# 💻 Tech Stack:
+# 💻 My Stack:
 
 <div>
 <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
