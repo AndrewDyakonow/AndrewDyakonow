@@ -3,10 +3,10 @@
 <img src="https://github.com/AndrewDyakonow/AndrewDyakonow/blob/main/122311%20(1).gif" align="center">
 
 </h4>
-
+___
+# 💻 Tech Stack:
 
 <div>
-
 <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
 <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/>
@@ -17,7 +17,6 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/yahoo-mail-app.png" alt="yahoo-mail-app"/>
-
 <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/nginx.png" alt="nginx"/>
 <img width="50" height="50" src="https://img.icons8.com/ios/50/flask.png" alt="flask"/>
