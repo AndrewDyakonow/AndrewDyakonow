@@ -6,6 +6,8 @@
 
 
 <div>
+
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
 <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
@@ -22,6 +24,7 @@
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo"/>
 <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"/>
 <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"/>
+<img width="48" height="48" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="bootstrap"/>
 </div>
 
 
