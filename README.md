@@ -8,7 +8,7 @@ ___
 
 # Contacts:
 
-| <h2>Contacts:</h2>              | <div><a href="https://github.com/AndrewDyakonow" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/material-outlined/48/github.png" alt="github"/><a href="https://t.me/Blendis" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/><a href="mailto:dronramone@yahoo.com" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/yahoo-mail-app.png" alt="yahoo-mail-app"/></div>                                                                                                                                                                         |
+<div><a href="https://github.com/AndrewDyakonow" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/material-outlined/48/github.png" alt="github"/><a href="https://t.me/Blendis" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/><a href="mailto:dronramone@yahoo.com" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/yahoo-mail-app.png" alt="yahoo-mail-app"/></div>                                                                                                                                                                    
 
 
 # 💻 My Stack:
